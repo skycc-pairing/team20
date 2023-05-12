@@ -1,2 +1,1 @@
-# team20
-SKYCC G팀
+# SKYCC G팀
